@@ -16,4 +16,5 @@ Note: the implementation of the game mechanics itself is completely different to
 I recommend you to check that out!
 
 Have fun with the game and the code!
+
 Bartek
